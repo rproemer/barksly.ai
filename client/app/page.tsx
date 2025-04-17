@@ -60,9 +60,9 @@ export default function Home() {
           </div>
           <div className="flex-1 flex justify-center">
             <Image
-              src="/placeholder.svg?height=400&width=400"
+              src="/images/home-family.png?height=400&width=600"
               alt="Happy dog and owner"
-              width={400}
+              width={600}
               height={400}
               className="rounded-2xl shadow-lg"
             />
