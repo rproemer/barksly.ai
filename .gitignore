@@ -1,0 +1,16 @@
+# === Client ===
+client/node_modules/
+client/.next/
+client/.env
+client/.env.*
+client/dist/
+client/*.log
+
+# === Global ===
+.DS_Store
+.env
+.env.*
+_devworkingfiles/
+
+# === VSCode ===
+.vscode/
